@@ -5,9 +5,11 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: float
         """
-        import numpy as np
-
-        ls = nums1 +nums2
-        return np.median(ls)
+        ls = sorted(nums1 + nums2)
+        n = len(ls)
+        if n % 2 == 1 :
+            return float(ls[n//2])
+        else :
+            return float((ls[n//2-1]+ls[n//2])/2.0)
 
         

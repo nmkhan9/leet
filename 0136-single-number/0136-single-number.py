@@ -4,7 +4,13 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        single=0
+        total = 0
+        visitted = []
         for i in nums:
-            single^=i
-        return single 
+            if i not in visitted :
+                visitted.append(i)
+                total += i
+            else :
+                total -= i
+
+        return total

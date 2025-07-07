@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nmkhan9/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nmkhan9/leet/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nmkhan9/leet/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/nmkhan9/leet/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nmkhan9/leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/nmkhan9/leet/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nmkhan9/leet/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/nmkhan9/leet/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |

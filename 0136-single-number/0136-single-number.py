@@ -4,12 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        visitted = []
-        ls = []
-        for i in nums :
-            if i not in visitted :
-                visitted.append(i)
-            else :
-                ls.append(i)
-        abc = [x for x in visitted if x not in ls]
-        return abc[0]
+        single=0
+        for i in nums:
+            single^=i
+        return single 

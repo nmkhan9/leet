@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nmkhan9/leet/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nmkhan9/leet/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/nmkhan9/leet/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/nmkhan9/leet/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nmkhan9/leet/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nmkhan9/leet/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/nmkhan9/leet/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/nmkhan9/leet/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/nmkhan9/leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/nmkhan9/leet/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/nmkhan9/leet/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/nmkhan9/leet/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nmkhan9/leet/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/nmkhan9/leet/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nmkhan9/leet/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/nmkhan9/leet/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nmkhan9/leet/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nmkhan9/leet/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/nmkhan9/leet/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |

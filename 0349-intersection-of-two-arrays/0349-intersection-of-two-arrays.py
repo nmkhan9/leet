@@ -5,5 +5,4 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        ls = [x for x in nums1 if x in nums2]
-        return list(set(ls))
+        return list(set(nums1) & set(nums2))

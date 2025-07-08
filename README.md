@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nmkhan9/leet/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/nmkhan9/leet/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nmkhan9/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/nmkhan9/leet/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nmkhan9/leet/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/nmkhan9/leet/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/nmkhan9/leet/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/nmkhan9/leet/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nmkhan9/leet/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/nmkhan9/leet/tree/master/0383-ransom-note) |
 ## Database
 |  |
 | ------- |

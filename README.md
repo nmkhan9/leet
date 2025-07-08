@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nmkhan9/leet/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/nmkhan9/leet/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nmkhan9/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0500-keyboard-row](https://github.com/nmkhan9/leet/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nmkhan9/leet/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nmkhan9/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/nmkhan9/leet/tree/master/0383-ransom-note) |
+| [0500-keyboard-row](https://github.com/nmkhan9/leet/tree/master/0500-keyboard-row) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nmkhan9/leet/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/nmkhan9/leet/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/nmkhan9/leet/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/nmkhan9/leet/tree/master/0500-keyboard-row) |
 ## Sliding Window
 |  |
 | ------- |

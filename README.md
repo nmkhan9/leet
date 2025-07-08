@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/nmkhan9/leet/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/nmkhan9/leet/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/nmkhan9/leet/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/nmkhan9/leet/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/nmkhan9/leet/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/nmkhan9/leet/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/nmkhan9/leet/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/nmkhan9/leet/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nmkhan9/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/nmkhan9/leet/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->

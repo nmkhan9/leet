@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nmkhan9/leet/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/nmkhan9/leet/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/nmkhan9/leet/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/nmkhan9/leet/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nmkhan9/leet/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/nmkhan9/leet/tree/master/0412-fizz-buzz) |
 ## Linked List
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nmkhan9/leet/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nmkhan9/leet/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/nmkhan9/leet/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nmkhan9/leet/tree/master/0342-power-of-four) |
 ## String
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nmkhan9/leet/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/nmkhan9/leet/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nmkhan9/leet/tree/master/0342-power-of-four) |
 ## Counting
 |  |

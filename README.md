@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/nmkhan9/leet/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/nmkhan9/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/nmkhan9/leet/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/nmkhan9/leet/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/nmkhan9/leet/tree/master/0500-keyboard-row) |
 ## Math
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/nmkhan9/leet/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/nmkhan9/leet/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/nmkhan9/leet/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/nmkhan9/leet/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/nmkhan9/leet/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/nmkhan9/leet/tree/master/0500-keyboard-row) |
 ## Sliding Window
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nmkhan9/leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nmkhan9/leet/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nmkhan9/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/nmkhan9/leet/tree/master/0389-find-the-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nmkhan9/leet/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nmkhan9/leet/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nmkhan9/leet/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/nmkhan9/leet/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |

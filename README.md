@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/nmkhan9/leet/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nmkhan9/leet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nmkhan9/leet/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/nmkhan9/leet/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nmkhan9/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/nmkhan9/leet/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/nmkhan9/leet/tree/master/0500-keyboard-row) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nmkhan9/leet/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/nmkhan9/leet/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/nmkhan9/leet/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/nmkhan9/leet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nmkhan9/leet/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/nmkhan9/leet/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/nmkhan9/leet/tree/master/0412-fizz-buzz) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nmkhan9/leet/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nmkhan9/leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nmkhan9/leet/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nmkhan9/leet/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nmkhan9/leet/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |

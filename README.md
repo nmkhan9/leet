@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nmkhan9/leet/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/nmkhan9/leet/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nmkhan9/leet/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/nmkhan9/leet/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/nmkhan9/leet/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/nmkhan9/leet/tree/master/0500-keyboard-row) |
 ## Sliding Window
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nmkhan9/leet/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nmkhan9/leet/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nmkhan9/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/nmkhan9/leet/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/nmkhan9/leet/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nmkhan9/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nmkhan9/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/nmkhan9/leet/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
